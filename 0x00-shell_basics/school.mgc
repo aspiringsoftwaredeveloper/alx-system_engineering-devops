@@ -1,2 +1,2 @@
-0 string School School data
-!:mine School
+#!/bin/bash
+school.mgc -C -m school.mgc
